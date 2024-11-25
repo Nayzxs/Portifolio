@@ -1,0 +1,76 @@
+@import "../../vars.css";
+
+.container {
+    background-color: rgba(28, 24, 24, 0.386);
+    color: var(--color-text);
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 50px;
+    --font-robot: "Roboto";
+  }
+  
+  .content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .text h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .text p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .link a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .link a:hover {
+    color: #52595d; 
+  }
+  
+  .icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  
+
+  @media (max-width: 768px) {
+    .links {
+      flex-direction: column;
+      gap: 15px;
+    }
+  
+    .text h2 {
+      font-size: 1.8rem;
+    }
+  
+    .text p {
+      font-size: 0.9rem;
+    }
+  }
+  

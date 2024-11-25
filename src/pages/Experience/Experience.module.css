@@ -1,0 +1,76 @@
+@import "../../vars.css";
+
+
+.container{
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 14px;
+}
+
+.boxes{
+    width: 45%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    min-width: 190px;
+    gap: 20px; 
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+    padding: 50px;
+    margin: 40px;
+}
+
+.ImageContainer{
+    background-color: var(--color-secundary);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+}
+
+.ImageContainer:hover{
+    background-color: rgba(130, 125, 125, 0.501);
+}
+.ImageContainer img{
+    width: 79%;
+}
+.box p{
+    font-size: 25px;
+    font-family: var(--font-roboto);
+    font-weight: 500;
+}
+@media screen and (max-width: 830px){
+    .content{
+        flex-direction: column;
+        align-items: center;
+        gap: 34px;
+    }
+    .boxes{
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        grid-template-columns: repeat(1, 1fr);  
+    }
+}
