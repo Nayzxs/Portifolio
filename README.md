@@ -1,6 +1,6 @@
 # Portifólio React 
 
-https://super-duper-fishstick-4jqpv795jr9725jw-5173.app.github.dev/https://super-duper-fishstick-4jqpv795jr9725jw-5173.app.github.dev/https://super-duper-fishstick-4jqpv795jr9725jw-5173.app.github.dev/https://super-duper-fishstick-4jqpv795jr9725jw-5173.app.github.dev/
+https://super-duper-fishstick-4jqpv795jr9725jw-5173.app.github.dev/
 
 ## Imagens do Projeto
 
