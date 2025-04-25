@@ -1,6 +1,4 @@
-
-
-#🌟 Portfólio Pessoal - Primeiro Projeto com React
+🌟 Portfólio Pessoal - Primeiro Projeto com React
 Este é o meu primeiro projeto utilizando React, e decidi começar com algo especial: meu portfólio pessoal! A ideia foi desenvolver uma aplicação que me representasse como desenvolvedora e, ao mesmo tempo, me ajudasse a colocar em prática os conceitos que estou aprendendo.
 
 🚀 Sobre o Projeto
