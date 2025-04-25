@@ -1,3 +1,4 @@
+
 🌟 Portfólio Pessoal - Primeiro Projeto com React
 Este é o meu primeiro projeto utilizando React, e decidi começar com algo especial: meu portfólio pessoal! A ideia foi desenvolver uma aplicação que me representasse como desenvolvedora e, ao mesmo tempo, me ajudasse a colocar em prática os conceitos que estou aprendendo.
 
@@ -24,7 +25,7 @@ Layout responsivo para mobile e desktop
 ![Captura de tela 2024-11-25 174130](https://github.com/user-attachments/assets/b71eaecf-2561-4375-a590-3ee925ec9050)
 
 🌍 Acesse o Portfólio
-https://devserver-main--golden-raindrop-a020bb.netlify.app
+https://devserver-main--portifolio-naecia.netlify.app
 
 📚 Aprendizados
 Durante esse projeto, aprendi bastante sobre:
